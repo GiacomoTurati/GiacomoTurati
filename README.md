@@ -1,16 +1,23 @@
-### Hi there 👋
+# Ciao, sono Giacomo Turati! 👋
 
-<!--
-**GiacomoTurati/GiacomoTurati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente appassionato di Python, Flutter e dell'industrai del Game Making. 🚀 Attualmente, sto affrontando il mio percorso di studio in Python a scuola e sto esplorando le profondità di Flutter nel mio tempo libero.
 
-Here are some ideas to get you started:
+## 🌱 Attualmente imparando
+- Python (a scuola 🏫)
+- Flutter (in modo autonomo 💻)
+- Game Making (nel tempo libero🎮)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 Obiettivi futuri
+Sogno di diventare un Game Developer e un App Developer! 🕹️📱 La creazione di esperienze coinvolgenti e la risoluzione di problemi attraverso il codice sono le sfide che mi entusiasmano di più.
+
+## 🔧 Tecnologie e strumenti
+- Python
+- Flutter/Dart
+- C#
+- Git
+
+## ⚡ Fatti divertenti
+Sono appassionato di giochi indie e di arte virtuale 🎨
+
+Grazie per visitare il mio profilo! 😊
