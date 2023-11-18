@@ -17,6 +17,11 @@ Sogno di diventare un Game Developer e un App Developer! 🕹️📱 La creazion
 - C#
 - Git
 
+## 🚩 Lingue
+- Italiano, madrelingua 🍕
+- Inglese, certificazione B2 🇬🇧
+- Russo, certificazione A1 matriosca 🇷🇺
+
 ## ⚡ Fatti divertenti
 Sono appassionato di giochi indie e di arte virtuale 🎨
 
