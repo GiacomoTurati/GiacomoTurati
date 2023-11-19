@@ -1,28 +1,27 @@
-# Ciao, sono Giacomo Turati! 👋
+# Hello, I'm Giacomo Turati! 👋
 
-Sono uno studente appassionato di Python, Flutter e dell'industrai del Game Making. 🚀 Attualmente, sto affrontando il mio percorso di studio in Python a scuola e sto esplorando le profondità di Flutter nel mio tempo libero.
+I'm a passionate student of Python, Flutter, and the Game Making industry. 🚀 Currently, I'm navigating my Python course at school and delving into the depths of Flutter in my free time.
 
-## 🌱 Attualmente imparando
-- Python (a scuola 🏫)
-- Flutter (in modo autonomo 💻)
-- Game Making (nel tempo libero🎮)
+## 🌱 Currently Learning
+Python (at school 🏫)
+Flutter (self-taught 💻)
+Game Making (in my free time 🎮)
 
+## 👨‍💻 Future Goals
+I dream of becoming a Game Developer and an App Developer! 🕹️📱 Creating engaging experiences and solving problems through code are the challenges that excite me the most.
 
-## 👨‍💻 Obiettivi futuri
-Sogno di diventare un Game Developer e un App Developer! 🕹️📱 La creazione di esperienze coinvolgenti e la risoluzione di problemi attraverso il codice sono le sfide che mi entusiasmano di più.
+## 🔧 Technologies and Tools
+Python
+Flutter/Dart
+C#
+Git
 
-## 🔧 Tecnologie e strumenti
-- Python
-- Flutter/Dart
-- C#
-- Git
+## 🚩 Languages
+Italian, native 🍕
+English, B2 certification 🇬🇧
+Russian, A1 certification 🇷🇺
 
-## 🚩 Lingue
-- Italiano, madrelingua 🍕
-- Inglese, certificazione B2 🇬🇧
-- Russo, certificazione A1 matriosca 🇷🇺
+## ⚡ Fun Facts
+I'm passionate about indie games and virtual art 🎨
 
-## ⚡ Fatti divertenti
-Sono appassionato di giochi indie e di arte virtuale 🎨
-
-Grazie per visitare il mio profilo! 😊
+Thanks for visiting my profile! 😊
