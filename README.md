@@ -24,4 +24,4 @@ I dream of becoming a Game Developer and an App Developer! 🕹️📱 Creating 
 ## ⚡ Fun Facts
 I'm passionate about indie games and virtual art 🎨
 
-Thanks for visiting my profile! 😊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N3v1&show_icons=true&theme=shades-of-purple)
