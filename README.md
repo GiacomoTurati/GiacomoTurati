@@ -1,10 +1,10 @@
 # Hello, I'm Giacomo Turati! 👋
 
-I'm a passionate student of Python, Flutter, and the Game Making industry. 🚀 Currently, I'm navigating my Python course at school and delving into the depths of Flutter in my free time.
+I'm a student of Python, Unity (AR), and the Game Making industry. 🚀 Currently, I'm navigating my Python course at school and delving into the depths of Flutter in my free time.
 
 ## 🌱 Currently Learning
 - Python (at school 🏫) 
-- Flutter (self-taught 💻) 
+- Unity AR (self-taught 💻) 
 - Game Making (in my free time 🎮) 
 
 ## 👨‍💻 Future Goals
